@@ -2,6 +2,11 @@
 
 This repo contains files for single page project as an exercise in Sass architecture. This was based on the Advanced CSS and Sass Udemy course by Jonas Schmedtmann.
 
+This project also has examples:
+1. CSS Modal Overlay
+2. Float Based Grid System
+3. Card Flip Rollover Animation
+
 ### Prerequisites
 1. Node v6.6 or above
 2. NPM
