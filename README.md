@@ -6,6 +6,7 @@ This project also has examples:
 1. CSS Modal Overlay
 2. Float Based Grid System
 3. Card Flip Rollover Animation
+4. Responsive Layout
 
 ### Prerequisites
 1. Node v6.6 or above
